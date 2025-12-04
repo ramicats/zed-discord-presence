@@ -61,7 +61,7 @@
   "regex:^(BUILD|WORKSPACE|\\.bzl|\\.bazel(rc)?|\\.s(tar|ky))$": "bazel",
   "regex:^(\\.bowerrc|bower\\.json|Bowerfile)$": "bower",
   "regex:\\.bf?$": "brainfuck",
-  "regex:\\.c$": "c",
+  "regex:\\.c$": "Clang",
   "regex:(cargo\\.toml|cargo\\.lock)$": "cargo",
   ".casc": "casc",
   ".cas": "casc",
